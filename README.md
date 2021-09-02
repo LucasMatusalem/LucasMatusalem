@@ -1,9 +1,11 @@
 ### Olá! Me chamo Lucas Matusalem, sou desenvolvedor Back-end e aqui você pode encontrar alguns dos meus projetos.
 
- <div>
+<div align="center">
   <a href="https://github.com/LucasMatusalem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatusalem&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,6 +16,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+##
 
 <div> 
     <a href="https://instagram.com/lucasmatusalem" target="_blank">
