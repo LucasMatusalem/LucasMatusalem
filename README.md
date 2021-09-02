@@ -1,5 +1,5 @@
 ### Olá! Me chamo Lucas Matusalem, sou desenvolvedor Back-end e aqui você pode encontrar alguns dos meus projetos.
-##
+<hr>
 <div style="display: inline_block">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
